@@ -9,4 +9,4 @@
 |:black_medium_square: Группа: |                                                                                                                                                              **QA-55** |
 | :black_medium_square: Выполнял: |                                                                                                                                                      **Подвигин Илья** |
 
-<img src="https://media.tenor.com/VrzXhtoSwcsAAAAd/hacker-typing.gif" width="440" height="260">
+<img src="https://media.tenor.com/VrzXhtoSwcsAAAAd/hacker-typing.gif" width="300" height="200">
